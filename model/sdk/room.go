@@ -9,5 +9,3 @@ type Room struct {
 	RoomOptions   string `json:"room_options"`
 	RoomType      string `json:"room_type"`
 }
-
-

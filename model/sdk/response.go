@@ -20,5 +20,3 @@ type Results struct {
 	Rooms        Rooms            `json:"rooms"`
 	Participants RoomParticipants `json:"participants"`
 }
-
-
